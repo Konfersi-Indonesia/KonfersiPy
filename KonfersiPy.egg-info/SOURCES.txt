@@ -1,0 +1,11 @@
+LICENSE.txt
+README.rst
+setup.py
+KonfersiPy/arrayfunct.py
+KonfersiPy/oceanography.py
+KonfersiPy/remote_sensing.py
+KonfersiPy.egg-info/PKG-INFO
+KonfersiPy.egg-info/SOURCES.txt
+KonfersiPy.egg-info/dependency_links.txt
+KonfersiPy.egg-info/requires.txt
+KonfersiPy.egg-info/top_level.txt

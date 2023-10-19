@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: KonfersiPy
+Version: 0.1.0
+Summary: Konfersi Indonesia Python Library
+Home-page: https://github.com/Konfersi-Indonesia/KonfersiPy.git
+Author: Konfersi Indonesia
+Author-email: konfersi.indonesia@gmail.com
+License: MIT License
+License-File: LICENSE.txt
